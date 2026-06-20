@@ -390,8 +390,8 @@ footer p{
 }
 
 .menu-toggle{
-    display:none;
-    font-size:30px;
+    display:block;
+    font-size:32px;
     cursor:pointer;
     color:#0B2341;
 }
@@ -663,4 +663,16 @@ footer p{
     font-size:30px;
     cursor:pointer;
     color:#0B2341;
+}
+
+.whatsapp-btn{
+    bottom:20px;
+    right:20px;
+    z-index:999;
+}
+
+.back-to-top{
+    bottom:20px;
+    left:20px;
+    z-index:999;
 }
